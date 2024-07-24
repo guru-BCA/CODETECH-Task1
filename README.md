@@ -1,13 +1,17 @@
-# CODETECH-Task1
+Here's the updated README for the Basic Calculator program, reflecting the new details:
 
-**Name**: Guru prasnath S
-**Company**: CODE TECH
-**ID**: CT4PP3076
-**Domain**: PYTHON PROGRAMMING
-**Duration**: 4 weeks
-**Mentor**: Neelam harish
+---
 
 # Basic Calculator
+
+## CODETECH-Task1
+
+**Name**: Guru Prasanth S  
+**Company**: CODE TECH  
+**ID**: CT4PP3076  
+**Domain**: Python Programming  
+**Duration**: 4 weeks  
+**Mentor**: Neelam Harish 
 
 ## Overview
 
